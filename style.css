@@ -1,0 +1,33 @@
+*{
+    background-color: #C4C6C8;
+    font-family: "Darker Grotesque", sans-serif;
+}
+.container{
+    margin: 150px auto;
+    text-align: center;
+    width: 400px;
+}
+.head{
+    color: #15161B;
+    font-weight: 600;
+    font-size: 4rem;
+}
+#count{
+    font-weight: 100;
+    color: #15161B;;
+    font-size: 7rem;
+}
+input{
+    font-weight: 400;
+    padding: 10px 15px;
+    color: #C4C6C8;
+    background-color: #15161B;;
+    cursor: pointer;
+    font-size: 1.25rem;
+    border-radius: 50px;
+}
+input:hover{
+    color: #15161B;
+    background-color: #C4C6C8;
+    
+}
